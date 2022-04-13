@@ -1,3 +1,1 @@
-object Main {
-
-}
+case class Pair[T, E](param1: T, param2: E)
